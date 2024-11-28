@@ -4,7 +4,8 @@ npm i typescript --save-dev
 npx tsc --init
 create dir app/index.ts
 add script start in package.json
-
+npm i sequelize
+npm i sequelize-cli --save-dev
 
 
 
